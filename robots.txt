@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://edohioji.github.io/HgV/sitemap_index.txt
+Sitemap: https://edohioji.github.io/ZCM/sitemap_index.txt
+Sitemap: https://edohioji.github.io/cam/sitemap_index.txt
+Sitemap: https://edohioji.github.io/csM/sitemap_index.txt
